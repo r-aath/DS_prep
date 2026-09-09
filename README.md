@@ -12,7 +12,6 @@ This repository is a **learning documentation** workspace for my data science ma
 
 ## Notes
 
-- Paths in the notebook currently use absolute Windows paths. Update them to relative paths ASAP.
 - The current dataset is focused on sleep health and lifestyle attributes, just for the purpose of learning data analysis workflows.
 
 ## Next Steps
