@@ -2,13 +2,13 @@
 
 ## Overview
 
-This repository is a **learning documentation** workspace for my data science major preparation. Contains sample notebooks, datasets, and exploratory examples that demonstrate basic data cleaning, analysis, etc.
+This repository is a **learning documentation** workspace for a data science major preparation. Contains sample notebooks, datasets, and exploratory examples that demonstrate basic data cleaning, analysis, etc.
 
 ## Learning Goals
 
 - Learn data science fundamentals through hands-on practice
 - Learn datasets handling, cleaning, and processing 
-- Build knowledge and confidence with basic data analysis workflows
+- Build knowledge with basic data analysis workflows
 
 ## Notes
 
@@ -16,5 +16,4 @@ This repository is a **learning documentation** workspace for my data science ma
 
 ## Next Steps
 
-- Add more notebooks for visualization, cleaning, and feature engineering.
-- Document new concepts with markdown explanations and example code.
+- Add more notebooks for visualization, cleaning, and ML to feature engineering.
